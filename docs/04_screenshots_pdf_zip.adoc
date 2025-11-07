@@ -1,0 +1,17 @@
+= Screenshots, PDF & ZIP-Dateien
+:icons: font
+:toc: macro
+
+== Ziele
+* Screenshot-Techniken anwenden
+* PDFs bearbeiten und kombinieren
+* ZIP-Dateien erstellen und entpacken
+
+== Aufgaben
+. Erstelle drei Screenshots (Bildschirm, Auswahl, Fenster).
+. Bearbeite eine PDF-Datei in Vorschau und kombiniere zwei PDFs.
+. Erstelle und entpacke eine ZIP-Datei aus deinen Screenshots.
+
+== Reflexion
+* Wann sind Screenshots oder PDFs für dich nützlich?
+* Wofür könntest du ZIP-Dateien verwenden?

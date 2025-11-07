@@ -1,0 +1,17 @@
+= Finder & Dateiverwaltung
+:icons: font
+:toc: macro
+
+== Ziele
+* Aufbau verstehen, eigene Ablagestruktur erstellen
+* Grundprinzipien von Dateiablage vertiefen
+
+== Aufgaben
+. Zeichne deine aktuelle Ordnerstruktur und notiere deren Vor- und Nachteile.
+. Entwirf eine neue, effizientere Ordnerstruktur.
+. Erstelle deine neue Struktur im Finder (Ordner anlegen, verschieben, umbenennen).
+. Führe Dateioperationen durch: kopieren, verschieben, löschen.
+
+== Reflexion
+* Wie fühlst du dich mit deiner neuen Struktur?
+* Wirst du sie langfristig nutzen? Warum oder warum nicht?

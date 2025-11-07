@@ -1,0 +1,17 @@
+= Sicherheit & Speicherverwaltung in der iCloud
+:icons: font
+:toc: macro
+
+== Ziele
+* Speicherverwaltung verstehen
+* Zwei-Faktor-Authentifizierung prüfen
+* Daten aufräumen und schützen
+
+== Aufgaben
+. Überprüfe deinen iCloud-Speicherverbrauch.
+. Lösche unnötige Dateien, um Platz zu schaffen.
+. Kontrolliere, ob Zwei-Faktor-Authentifizierung aktiv ist.
+
+== Reflexion
+* Wie sicher fühlst du dich im Umgang mit iCloud-Daten?
+* Welche Routinen möchtest du einführen, um deinen Speicher zu pflegen?

@@ -1,0 +1,32 @@
+= Voraussetzungen für die Teilnahme am Kurs
+
+== Hardware
+
+Damit Sie erfolgreich am Kurs teilnehmen können, benötigen Sie:
+
+* Laptop
+** macOS 14 oder neuer
+* Maus (empfohlen – erleichtert das Arbeiten am Laptop)
+* Internetverbindung (WLAN steht zur Verfügung)
+* evtl. Smartphone
+
+== Software
+
+Für diesen Kurs sind normalerweise *keine zusätzlichen Installationen* erforderlich.
+Es werden ausschliesslich *system-eigene Programme* verwendet, die auf jedem modernen Computer bereits vorinstalliert sind.
+
+== Empfohlene Einstellungen
+
+*Aktualisiertes Betriebssystem:*  
+Halten Sie Ihr System aktuell – das verbessert Stabilität und Sicherheit.
+
+* Mac: _Apple-Menü → Systemeinstellungen → Allgemein → Softwareupdate_
+
+*Stromversorgung:*  
+Wenn Sie ein Notebook verwenden, schliessen Sie es während des Kurses an das Netzteil an.
+
+== Vorwissen (empfohlen)
+
+* Grundkenntnisse im Umgang mit Maus, Tastatur und Dateiablage
+* Fähigkeit, ein Programm zu öffnen und Dateien zu speichern
+* Grundverständnis, wie Fotos von Smartphone oder Kamera übertragen werden

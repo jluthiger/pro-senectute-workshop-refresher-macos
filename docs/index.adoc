@@ -1,111 +1,38 @@
-= MacOS-Refresher – Kursprogramm (erweitert mit iCloud-Inhalten)
+= MacOS-Refresher
+:author_1: Pro Senectute Luzern
+:author_2: Jürg Luthiger
+:revnumber: 1.0
 
-[cols="1"]
-|===
-| *Dauer:* 2 Tage à 3 Stunden
-| *Zielgruppe:* Personen mit Grundkenntnissen am Mac, die ihr Wissen auffrischen und vertiefen möchten
-| *Voraussetzung:* Eigener Mac (macOS Monterey oder neuer empfohlen), Apple-ID vorhanden
-|===
+Dauer: *2 Kurstage à 3 Stunden* +
+xref:voraussetzungen.adoc[Voraussetzungen] für die Teilnahme am Kurs
+
 
 == Tag 1 – Grundlagen auffrischen & Dateien effizient verwalten
 
-[cols="1,2,4"]
-|===
-| Zeit | Thema | Inhalte & Aktivitäten
-
-| *09:00 – 09:15*
-| *Begrüssung & Einführung*
-| - Kennenlernen, Erwartungen, Kursziele +
-- Kurze Übersicht über die zwei Kurstage
-
-| *09:15 – 10:00*
-| *Finder & Dateiverwaltung*
-| - Aufbau und Funktionen des Finders +
-- Ordnerstruktur & Ablageprinzipien +
-- Dateien suchen, kopieren, verschieben, löschen +
-- Übung: Eigene Ablagestruktur erstellen
-
-| *10:00 – 10:30*
-| *Zwischenablage & Multitasking*
-| - Copy/Paste, Drag & Drop, Tastenkürzel +
-- Mehrere Fenster, Tabs und Spaces +
-- Mission Control & Dock effizient nutzen
-
-| *10:30 – 10:45*
-| *Pause*
-| Kurze Erholung, Fragen klären
-
-| *10:45 – 11:30*
-| *Screenshots, PDF & ZIP-Dateien*
-| - Tastenkombinationen für Screenshots +
-- PDFs mit „Vorschau" bearbeiten und kombinieren +
-- ZIP-Dateien erstellen und entpacken
-
-| *11:30 – 12:00*
-| *Einführung in die iCloud (Teil 1 – Verständnis)*
-| - Was ist die iCloud? (Cloud-Prinzip, Apple-ID, Datenschutz) +
-- Unterschied iCloud vs. lokaler Speicher +
-- Überblick über iCloud-Dienste: iCloud Drive, Fotos, Mail, Kalender, Kontakte, Notizen +
-- *Übung:* iCloud-Status im System überprüfen und verstehen, wie Synchronisation funktioniert
-
-|===
+xref:01_einfuehrung.adoc[Arbeitsblatt 1 – Begrüssung & Einführung] +
+xref:02_finder_dateiverwaltung.adoc[Arbeitsblatt 2 – Finder & Dateiverwaltung] +
+xref:03_zwischenablage_multitasking.adoc[Arbeitsblatt 3 – Zwischenablage & Multitasking] +
+xref:04_screenshots_pdf_zip.adoc[Arbeitsblatt 4 – Screenshots, PDF & ZIP-Dateien] +
+xref:05_icloud_einfuehrung.adoc[Arbeitsblatt 5 – Einführung in die iCloud]
 
 == Tag 2 – iCloud & praktische macOS-Anwendungen
 
-[cols="1,2,4"]
-|===
-| Zeit | Thema | Inhalte & Aktivitäten
+xref:06_rueckblick_tag1.adoc[Arbeitsblatt 6 – Rückblick & Fragen (Tag 2 – Einstieg)] +
+xref:07_icloud_drive_zusammenarbeit.adoc[Arbeitsblatt 7 – iCloud Drive & Zusammenarbeit] +
+xref:08_icloud_fotos_dienste.adoc[Arbeitsblatt 8 – iCloud Fotos & andere iCloud-Dienste] +
+xref:09_icloud_sicherheit_speicher.adoc[Arbeitsblatt 9 – Sicherheit & Speicherverwaltung in der iCloud] +
+xref:10_icloud_apps.adoc[Arbeitsblatt 10 – Praktische macOS-Apps mit iCloud-Anbindung]
+xref:11_abschluss_feedback.adoc[Arbeitsblatt 11 – Abschluss & Feedback]
+xref:12_bonus_tipps.adoc[Arbeitsblatt 12 – Bonus: Tipps & Tricks]
 
-| *09:00 – 09:15*
-| *Rückblick & Fragen*
-| - Wiederholung Tag 1 +
-- Klärung offener Punkte zu Finder & iCloud
+== Kursunterlagen
 
-| *09:15 – 10:00*
-| *iCloud vertiefen (Teil 2 – iCloud Drive & Zusammenarbeit)*
-| - Aufbau von iCloud Drive im Finder +
-- Automatische Synchronisation von „Schreibtisch" & „Dokumente" +
-- Dateien freigeben (Link oder Einladung) +
-- Gemeinsame Bearbeitung (z. B. Pages, Numbers, TextEdit) +
-- *Übung:* Datei speichern & teilen, Synchronisation auf iPad/iPhone prüfen
+Es lohnt sich im Vorfeld Gedanken über das eigene Setup in Bezug auf die iCloud zu machen. Hierfür steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die eigenständig oder gemeinsam mit dem Kursleiter ausgefüllt werden kann. Die Vorlage enthält unter anderem folgende Leitfragen, die bei der Vorbereitung hilfreich sind:
 
-| *10:00 – 10:30*
-| *iCloud Fotos & andere iCloud-Dienste*
-| - iCloud-Fotos aktivieren und verstehen (gemeinsame Mediathek, Speicheroptionen) +
-- iCloud-Mail, Kalender, Kontakte, Notizen +
-- Zugriff via link:https://www.icloud.com[icloud.com] im Browser +
-- *Übung:* Testzugriff auf iCloud.com, Kontakte & Notizen prüfen
+* *Kennen Sie Ihren Cloud-Dienst?* Welcher Anbieter? Welche Funktionen nutzen Sie bereits?
 
-| *10:30 – 10:45*
-| *Pause*
-| Zeit für individuellen Austausch & Praxisfragen
+* *Haben Sie Ihren Benutzeraccount?* Zugangsdaten, Postfach, Rechte etc.
 
-| *10:45 – 11:20*
-| *Sicherheit & Speicherverwaltung in der iCloud*
-| - Speicherpläne verstehen (5 GB kostenlos, Upgrade-Optionen) +
-- Speicher prüfen und aufräumen (Systemeinstellungen → Apple-ID → iCloud → Speicher verwalten) +
-- Sicherheit: Zwei-Faktor-Authentifizierung, Wiederherstellung, Datenschutz +
-- *Übung:* Speicherübersicht anzeigen & gemeinsam interpretieren
+* *Kennen Sie die URL des Cloud-Diensts?* Damit Sie sich direkt einloggen können.
 
-| *11:20 – 11:45*
-| *Praktische macOS-Apps mit iCloud-Anbindung*
-| - Notizen, Erinnerungen, Kalender, Safari-Lesezeichen +
-- Wie alles über iCloud synchronisiert wird +
-- Kurze Demo: eine Notiz auf Mac erstellen, auf iPhone anzeigen
-
-| *11:45 – 12:00*
-| *Abschluss & Feedback*
-| - Zusammenfassung der zwei Tage +
-- Individuelle Fragen +
-- Tipps für weiterführende Selbstlernangebote oder Aufbaukurse
-
-|===
-
-== Zusatzinfos für Kursleitung
-
-* *Didaktik:* praxisnah, mit Live-Demonstrationen und individueller Begleitung.
-* *Hilfsmittel:* Beamer, Whiteboard, evtl. Screensharing (AirPlay).
-* *Unterstützung:* Ausdruck mit Kurzübersicht zu iCloud-Einstellungen & Tastenkürzeln.
-* *Optionales Zusatzmodul (30 Min. bei Bedarf):*
-+
-„iCloud-Sicherheit & Wiederherstellung von Daten" – erklärt, was passiert, wenn man sich abmeldet, ein Gerät verliert oder Daten wiederherstellen möchte.
+Diese Fragen dienen als Orientierung, damit Sie Ihr Setup (Geräte, Verbindungen, Speicherorte usw.) klären und optimieren können. So stellen Sie sicher, dass technische Stolpersteine frühzeitig erkannt und vermieden werden.

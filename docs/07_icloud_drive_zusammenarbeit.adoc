@@ -1,0 +1,17 @@
+= iCloud Drive & Zusammenarbeit
+:icons: font
+:toc: macro
+
+== Ziele
+* iCloud Drive verstehen
+* Dateien synchronisieren
+* Dateien freigeben und gemeinsam bearbeiten
+
+== Aufgaben
+. Beschreibe die Struktur von iCloud Drive.
+. Synchronisiere deinen Schreibtisch-Ordner mit iCloud.
+. Teile eine Datei über iCloud und beobachte die Synchronisation.
+
+== Reflexion
+* Wo könnte Zusammenarbeit über iCloud hilfreich sein?
+* Welche Herausforderungen siehst du?

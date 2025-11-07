@@ -1,0 +1,16 @@
+= Praktische macOS-Apps mit iCloud-Anbindung
+:icons: font
+:toc: macro
+
+== Ziele
+* Apps wie Notizen, Erinnerungen, Kalender mit iCloud synchronisieren
+* Safari-Lesezeichen zwischen Geräten nutzen
+
+== Aufgaben
+. Erstelle eine Notiz auf dem Mac und prüfe sie auf einem anderen Gerät.
+. Lege eine Erinnerung an und prüfe die Synchronisation.
+. Füge ein Safari-Lesezeichen hinzu und prüfe, ob es synchronisiert wurde.
+
+== Reflexion
+* Welche Apps nutzt du gerne über iCloud?
+* Wovor hast du beim Synchronisieren eventuell Bedenken?

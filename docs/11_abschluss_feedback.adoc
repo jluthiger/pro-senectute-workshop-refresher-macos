@@ -1,0 +1,16 @@
+= Abschluss & Feedback
+:icons: font
+:toc: macro
+
+== Ziele
+* Lernfortschritt reflektieren
+* Feedback geben
+* Selbstlernplan erstellen
+
+== Aufgaben
+. Notiere drei wichtigste Erkenntnisse des Kurses.
+. Was hat dir besonders gefallen, was könnte verbessert werden?
+. Setze dir ein persönliches Lernziel für die nächsten Wochen.
+
+== Reflexion
+* Was wirst du im Alltag konkret anwenden?

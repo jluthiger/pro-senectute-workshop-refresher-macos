@@ -1,0 +1,16 @@
+= iCloud Fotos & andere iCloud-Dienste
+:icons: font
+:toc: macro
+
+== Ziele
+* iCloud-Fotos einrichten und verstehen
+* Weitere iCloud-Dienste (Mail, Notizen, Kalender) nutzen
+
+== Aufgaben
+. Aktiviere iCloud-Fotos und beobachte die Synchronisation.
+. Logge dich bei icloud.com ein und erkunde die Web-Apps.
+. Erstelle und synchronisiere eine Notiz oder einen Kalendereintrag.
+
+== Reflexion
+* Welche iCloud-Dienste sind für dich besonders nützlich?
+* Welche Fragen hast du zur Datensicherheit?

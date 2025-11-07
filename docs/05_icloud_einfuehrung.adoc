@@ -1,0 +1,18 @@
+= Einführung in die iCloud
+:icons: font
+:toc: macro
+
+== Ziele
+* Grundprinzip der Cloud verstehen
+* Unterschied zwischen lokalem und Cloud-Speicher kennen
+* Überblick über iCloud-Dienste gewinnen
+
+== Aufgaben
+. Erkläre, was eine Cloud ist.
+. Nenne zwei Vorteile, Dateien in der iCloud zu speichern.
+. Liste iCloud-Dienste auf und beschreibe deren Nutzen.
+. Kontrolliere deine iCloud-Einstellungen auf dem Mac.
+
+== Reflexion
+* Welche Bedenken hast du bei der Nutzung der iCloud?
+* Was möchtest du mit der iCloud ausprobieren?

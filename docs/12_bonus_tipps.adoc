@@ -1,0 +1,16 @@
+= Bonus: Tipps & Tricks
+:icons: font
+:toc: macro
+
+== Ziele
+* Praktische macOS-Funktionen entdecken
+* Individuelle Einstellungen kennenlernen
+
+== Aufgaben
+. Teste mindestens drei neue Tastenkombinationen oder Kurzbefehle.
+. Passe dein Dock und deine Systemeinstellungen an.
+. Erstelle ein Backup mit Time Machine oder notiere, wie du es einrichten würdest.
+
+== Reflexion
+* Welche Funktion hat dich überrascht oder begeistert?
+* Was möchtest du noch weiter erkunden?
