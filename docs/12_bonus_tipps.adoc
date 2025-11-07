@@ -7,10 +7,9 @@
 * Individuelle Einstellungen kennenlernen
 
 == Aufgaben
-. Teste mindestens drei neue Tastenkombinationen oder Kurzbefehle.
-. Passe dein Dock und deine Systemeinstellungen an.
-. Erstelle ein Backup mit Time Machine oder notiere, wie Siees einrichten würdest.
+. Testen Sie mindestens drei neue Tastenkombinationen oder Kurzbefehle.
+. Passen Sie das Dock und die Systemeinstellungen an.
 
 == Reflexion
-* Welche Funktion hat dich überrascht oder begeistert?
-* Was möchtest Sienoch weiter erkunden?
+* Welche Funktion haben Sie überrascht oder begeistert?
+* Was möchten Sie noch weiter erkunden?

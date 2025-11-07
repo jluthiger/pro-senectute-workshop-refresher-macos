@@ -21,7 +21,7 @@ xref:06_rueckblick_tag1.adoc[Arbeitsblatt 6 – Rückblick & Fragen (Tag 2 – E
 xref:07_icloud_drive_zusammenarbeit.adoc[Arbeitsblatt 7 – iCloud Drive & Zusammenarbeit] +
 xref:08_icloud_fotos_dienste.adoc[Arbeitsblatt 8 – iCloud Fotos & andere iCloud-Dienste] +
 xref:09_icloud_sicherheit_speicher.adoc[Arbeitsblatt 9 – Sicherheit & Speicherverwaltung in der iCloud] +
-xref:10_icloud_apps.adoc[Arbeitsblatt 10 – Praktische macOS-Apps mit iCloud-Anbindung]
+xref:10_icloud_apps.adoc[Arbeitsblatt 10 – Praktische macOS-Apps mit iCloud-Anbindung] +
 xref:11_abschluss_feedback.adoc[Arbeitsblatt 11 – Abschluss & Feedback] +
 xref:12_bonus_tipps.adoc[Arbeitsblatt 12 – Bonus: Tipps & Tricks]
 

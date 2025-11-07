@@ -7,11 +7,11 @@
 * Mit mehreren Fenstern / Spaces arbeiten
 
 == Aufgaben
-. Erkläre in eigenen Worten, was die Zwischenablage ist.
-. Schreibe Tastenkürzel für Copy, Cut, Paste auf.
-. Kopiere Text zwischen zwei Programmen.
-. Arbeite mit Mission Control und wechsle zwischen Fenstern.
+. Erklären Sie in eigenen Worten, was die Zwischenablage ist.
+. Schreiben Sie Tastenkürzel für Copy, Cut, Paste auf.
+. Kopieren Sie Text zwischen zwei Programmen.
+. Arbeiten Sie mit Mission Control und wechsle zwischen Fenstern.
 
 == Reflexion
 * Wie kann effizientes Multitasking deinen Alltag erleichtern?
-* Welche Herausforderungen hast Siedabei erlebt?
+* Welche Herausforderungen haben Sie dabei erlebt?

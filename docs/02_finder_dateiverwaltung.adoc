@@ -7,11 +7,11 @@
 * Grundprinzipien von Dateiablage vertiefen
 
 == Aufgaben
-. Zeichne deine aktuelle Ordnerstruktur und notiere deren Vor- und Nachteile.
-. Entwirf eine neue, effizientere Ordnerstruktur.
-. Erstelle deine neue Struktur im Finder (Ordner anlegen, verschieben, umbenennen).
-. Führe Dateioperationen durch: kopieren, verschieben, löschen.
+. Zeichnen Sie deine aktuelle Ordnerstruktur und notiere deren Vor- und Nachteile.
+. Entwerfen Sie eine neue, effizientere Ordnerstruktur.
+. Erstellen Sie deine neue Struktur im Finder (Ordner anlegen, verschieben, umbenennen).
+. Führen Sie Dateioperationen durch: kopieren, verschieben, löschen.
 
 == Reflexion
-* Wie fühlst Siedich mit deiner neuen Struktur?
-* Wirst Siesie langfristig nutzen? Warum oder warum nicht?
+* Wie fühlen Sie mit Ihrer neuen Struktur?
+* Werden Sie diese langfristig nutzen? Warum oder warum nicht?

@@ -7,10 +7,10 @@
 * Weitere iCloud-Dienste (Mail, Notizen, Kalender) nutzen
 
 == Aufgaben
-. Aktiviere iCloud-Fotos und beobachte die Synchronisation.
-. Logge dich bei icloud.com ein und erkunde die Web-Apps.
-. Erstelle und synchronisiere eine Notiz oder einen Kalendereintrag.
+. Aktivieren Sie iCloud-Fotos und beobachte die Synchronisation.
+. Loggen Sie sich bei https://www.icloud.com[iCloud] ein und erkunden Sie die Web-Apps.
+. Erstellen und synchronisieren Sie eine Notiz oder einen Kalendereintrag.
 
 == Reflexion
 * Welche iCloud-Dienste sind für dich besonders nützlich?
-* Welche Fragen hast Siezur Datensicherheit?
+* Welche Fragen haben Sie zur Datensicherheit?

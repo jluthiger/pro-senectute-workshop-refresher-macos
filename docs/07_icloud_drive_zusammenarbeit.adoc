@@ -8,10 +8,10 @@
 * Dateien freigeben und gemeinsam bearbeiten
 
 == Aufgaben
-. Beschreibe die Struktur von iCloud Drive.
-. Synchronisiere deinen Schreibtisch-Ordner mit iCloud.
-. Teile eine Datei über iCloud und beobachte die Synchronisation.
+. Beschreiben Sie die Struktur von iCloud Drive.
+. Synchronisieren Sie deinen Schreibtisch-Ordner mit iCloud.
+. Teilen Sie eine Datei über iCloud und beobachten Sie die Synchronisation.
 
 == Reflexion
 * Wo könnte Zusammenarbeit über iCloud hilfreich sein?
-* Welche Herausforderungen siehst du?
+* Welche Herausforderungen sehen Sie?
