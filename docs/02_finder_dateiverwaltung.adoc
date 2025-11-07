@@ -13,5 +13,5 @@
 . Führe Dateioperationen durch: kopieren, verschieben, löschen.
 
 == Reflexion
-* Wie fühlst du dich mit deiner neuen Struktur?
-* Wirst du sie langfristig nutzen? Warum oder warum nicht?
+* Wie fühlst Siedich mit deiner neuen Struktur?
+* Wirst Siesie langfristig nutzen? Warum oder warum nicht?

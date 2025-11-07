@@ -13,5 +13,5 @@
 . Kontrolliere, ob Zwei-Faktor-Authentifizierung aktiv ist.
 
 == Reflexion
-* Wie sicher fühlst du dich im Umgang mit iCloud-Daten?
-* Welche Routinen möchtest du einführen, um deinen Speicher zu pflegen?
+* Wie sicher fühlst Siedich im Umgang mit iCloud-Daten?
+* Welche Routinen möchtest Sieeinführen, um deinen Speicher zu pflegen?

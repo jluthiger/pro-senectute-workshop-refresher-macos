@@ -9,8 +9,8 @@
 == Aufgaben
 . Teste mindestens drei neue Tastenkombinationen oder Kurzbefehle.
 . Passe dein Dock und deine Systemeinstellungen an.
-. Erstelle ein Backup mit Time Machine oder notiere, wie du es einrichten würdest.
+. Erstelle ein Backup mit Time Machine oder notiere, wie Siees einrichten würdest.
 
 == Reflexion
 * Welche Funktion hat dich überrascht oder begeistert?
-* Was möchtest du noch weiter erkunden?
+* Was möchtest Sienoch weiter erkunden?
