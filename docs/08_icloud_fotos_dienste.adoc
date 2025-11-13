@@ -12,5 +12,5 @@
 . Erstellen und synchronisieren Sie eine Notiz oder einen Kalendereintrag.
 
 == Reflexion
-* Welche iCloud-Dienste sind für dich besonders nützlich?
+* Welche iCloud-Dienste sind für Sie besonders nützlich?
 * Welche Fragen haben Sie zur Datensicherheit?

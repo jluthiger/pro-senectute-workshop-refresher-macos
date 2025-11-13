@@ -7,8 +7,8 @@
 * Safari-Lesezeichen zwischen Geräten nutzen
 
 == Aufgaben
-. Erstellen Sie eine Notiz auf dem Mac und prüfe sie auf einem anderen Gerät.
-. Legen eine Erinnerung an und prüfen Sie die Synchronisation.
+. Erstellen Sie eine Notiz auf dem Mac und prüfen Sie auf einem anderen Gerät.
+. Legen Sie eine Erinnerung an und prüfen Sie die Synchronisation.
 . Fügen Sie ein Safari-Lesezeichen hinzu und prüfen Sie, ob es synchronisiert wurde.
 
 == Reflexion

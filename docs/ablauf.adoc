@@ -101,7 +101,7 @@
 
 |===
 
-== Zusatzinfos für Kursleitung
+== Zusatzinfo für Kursleitung
 
 * *Didaktik:* praxisnah, mit Live-Demonstrationen und individueller Begleitung.
 * *Hilfsmittel:* Beamer, Whiteboard, evtl. Screensharing (AirPlay).

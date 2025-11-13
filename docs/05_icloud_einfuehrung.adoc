@@ -10,8 +10,8 @@
 == Aufgaben
 . Erklären Sie, was eine Cloud ist.
 . Nennen Sie zwei Vorteile, Dateien in der iCloud zu speichern.
-. Listen Sie iCloud-Dienste auf und beschreibe deren Nutzen.
-. Kontrollieren Sie deine iCloud-Einstellungen auf dem Mac.
+. Listen Sie iCloud-Dienste auf und beschreiben Sie deren Nutzen.
+. Kontrollieren Sie ihre iCloud-Einstellungen auf dem Mac.
 
 == Reflexion
 * Welche Bedenken haben Sie bei der Nutzung der iCloud?

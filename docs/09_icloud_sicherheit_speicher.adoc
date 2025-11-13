@@ -8,10 +8,10 @@
 * Daten aufräumen und schützen
 
 == Aufgaben
-. Überprüfen Sie deinen iCloud-Speicherverbrauch.
-. Löschen sie unnötige Dateien, um Platz zu schaffen.
+. Überprüfen Sie ihren iCloud-Speicherverbrauch.
+. Löschen Sie unnötige Dateien, um Platz zu schaffen.
 . Kontrollieren Sie, ob Zwei-Faktor-Authentifizierung aktiv ist.
 
 == Reflexion
 * Wie sicher fühlen Sie sich im Umgang mit iCloud-Daten?
-* Welche Routinen möchten Sie einführen, um deinen Speicher zu pflegen?
+* Welche Routinen möchten Sie einführen, um ihren Speicher zu pflegen?

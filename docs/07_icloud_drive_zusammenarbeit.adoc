@@ -9,7 +9,7 @@
 
 == Aufgaben
 . Beschreiben Sie die Struktur von iCloud Drive.
-. Synchronisieren Sie deinen Schreibtisch-Ordner mit iCloud.
+. Synchronisieren Sie ihre Ordner-Struktur für die iCloud.
 . Teilen Sie eine Datei über iCloud und beobachten Sie die Synchronisation.
 
 == Reflexion
