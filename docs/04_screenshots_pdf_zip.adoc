@@ -10,7 +10,7 @@
 == Aufgaben
 . Erstellen Sie drei Screenshots (Bildschirm, Auswahl, Fenster).
 . Bearbeiten Sie eine PDF-Datei in Vorschau und kombinieren Sie zwei PDFs.
-. Erstellen und entpacken Sie eine ZIP-Datei aus deinen Screenshots.
+. Erstellen und entpacken Sie eine ZIP-Datei aus ihren Screenshots.
 
 == Reflexion
 * Wann sind Screenshots oder PDFs für Sie nützlich?
