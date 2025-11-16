@@ -8,9 +8,15 @@
 * ZIP-Dateien erstellen und entpacken
 
 == Aufgaben
+* Screenshots
 . Erstellen Sie drei Screenshots (Bildschirm, Auswahl, Fenster).
-. Bearbeiten Sie eine PDF-Datei in Vorschau und kombinieren Sie zwei PDFs.
-. Erstellen und entpacken Sie eine ZIP-Datei aus ihren Screenshots.
+* PDFs
+. Erstellen Sie von jedem Screenshot eine PDF-Datei.
+. Bearbeiten Sie eine PDF-Datei in Vorschau.
+. Kombinieren Sie zwei PDFs.
+* ZIP-Dateien
+. Erstellen Sie eine ZIP-Datei aus ihren Screenshots.
+. Kopieren und Entpacken Sie die ZIP-Datei in einem anderen Ordner.
 
 == Reflexion
 * Wann sind Screenshots oder PDFs für Sie nützlich?

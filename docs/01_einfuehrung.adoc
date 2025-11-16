@@ -8,12 +8,19 @@
 * Erste Reflexion über das eigene Wissen
 
 == Aufgaben
-. Vorstellungsrunde: Notieren Sie drei Dinge, die Sie bereits über macOS gut kannst.
-. Notieren Sie drei Dinge, bei denen Sie wünschen, nach dem Kurs sicherer zu sein.
-. Erwartungen: Welche konkreten Ziele haben Sie für diesen Kurs gesetzt?
+* Vorstellungsrunde 
+. Nennen Sie drei Dinge, die Sie bereits über macOS gut kennen.
+. Nennen Sie drei Dinge, bei denen Sie wünschen, nach dem Kurs sicherer zu sein.
 . Welche Situationen im Alltag möchten Sie mit dem Gelernten erleichtern?
-. Kursvereinbarung: Schreiben Sie mindestens zwei Vorschläge auf, damit der Kurs für alle angenehm ist.
-
+* Erwartungen sammeln
+. Welche Themen sind Ihnen besonders wichtig?
+. Gibt es spezielle Herausforderungen, die Sie meistern möchten?    
+* WLAN
+. Richten Sie Ihr Gerät so ein, dass es sich mit dem Kurs-WLAN verbindet.
+* Eigenes System
+. Notieren Sie, welche macOS-Version Sie verwenden.
+. Notieren Sie, welche Apple-Geräte (iPhone, iPad, etc.) Sie besitzen.
+    
 == Reflexion
 * Was möchten Sie aus diesem Kurs mitnehmen?
 * Wie fühlen Sie sich zu Beginn des Kurses in Bezug auf das Wissen?

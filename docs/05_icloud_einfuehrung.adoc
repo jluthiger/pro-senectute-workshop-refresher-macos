@@ -8,10 +8,13 @@
 * Überblick über iCloud-Dienste gewinnen
 
 == Aufgaben
+* iCloud-Grundlagen
 . Erklären Sie, was eine Cloud ist.
 . Nennen Sie zwei Vorteile, Dateien in der iCloud zu speichern.
 . Listen Sie iCloud-Dienste auf und beschreiben Sie deren Nutzen.
-. Kontrollieren Sie ihre iCloud-Einstellungen auf dem Mac.
+* iCloud-Einstellungen auf dem eigenen Mac
+. Öffnen Sie die Systemeinstellungen und navigieren Sie zu "Apple Account" > "iCloud".
+. Aktivieren Sie iCloud Drive und wählen Sie die Apps aus, die iCloud verwenden sollen.
 
 == Reflexion
 * Welche Bedenken haben Sie bei der Nutzung der iCloud?

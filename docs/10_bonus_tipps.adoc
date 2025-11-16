@@ -1,0 +1,23 @@
+= Tipps & Tricks
+:icons: font
+:toc: macro
+
+== Ziele
+* Praktische macOS-Funktionen entdecken
+* Individuelle Einstellungen kennenlernen
+
+== Aufgaben
+. Testen Sie mindestens drei neue Tastenkombinationen oder Kurzbefehle.
+. Passen Sie das Dock und die Systemeinstellungen an.
+
+== Tipps & Tricks
+* Der *Schreibtisch/Desktop*: YouTube-Video link:https://www.youtube.com/watch?v=plyPws6H2vI[
+Hör auf, Fenster zu minimieren und mach DAS]
+* Das *Kontrollzentrum*: YouTube-Video link:https://www.youtube.com/watch?v=FnDEdBmC5Lw[Du hast GENIALSTE Funktion in MacOS Tahoe übersehen!]
+* Die *Option-Taste*: YouTube-Video link:https://www.youtube.com/watch?v=mcrwftiISvg[MacOS ist GENIAL, wenn du diese Taste kennst!]
+
+
+
+== Reflexion
+* Welche Funktion haben Sie überrascht oder begeistert?
+* Was möchten Sie noch weiter erkunden?
