@@ -21,12 +21,14 @@ xref:06_rueckblick_tag1.adoc[Arbeitsblatt 6 – Rückblick & Fragen (Tag 2 – E
 xref:07_icloud_drive_zusammenarbeit.adoc[Arbeitsblatt 7 – iCloud Drive & Zusammenarbeit] +
 xref:08_icloud_fotos_dienste.adoc[Arbeitsblatt 8 – iCloud Fotos & andere iCloud-Dienste] +
 xref:09_icloud_sicherheit_speicher.adoc[Arbeitsblatt 9 – Sicherheit & Speicherverwaltung in der iCloud] +
-xref:10_bonus_tipps.adoc[Arbeitsblatt 10 – Tipps & Tricks]
-xref:11_abschluss_feedback.adoc[Arbeitsblatt 11 – Abschluss & Feedback] +
+xref:10_bonus_tipps.adoc[Arbeitsblatt 10 – Tipps & Tricks] +
+xref:11_abschluss_feedback.adoc[Arbeitsblatt 11 – Abschluss & Feedback]
 
 == Kursunterlagen
 
-Es lohnt sich im Vorfeld Gedanken über das eigene Setup in Bezug auf die iCloud zu machen. Hierfür steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die eigenständig oder gemeinsam mit dem Kursleiter ausgefüllt werden kann. Die Vorlage enthält unter anderem folgende Leitfragen, die bei der Vorbereitung hilfreich sind:
+Die Kursunterlagen setzen sich aus den einzelnen Arbeitsblättern zusammen, die aus dieser Übersicht zur Verfügung stehen und auch als PDF-Dateien heruntergeladen werden können.
+
+Auch lohnt es sich im Vorfeld Gedanken über das eigene Setup in Bezug auf die iCloud zu machen. Hierfür steht eine xref:mein-setup.pdf[Vorlage] zur Verfügung, die eigenständig oder gemeinsam mit dem Kursleiter ausgefüllt werden kann. Die Vorlage enthält unter anderem folgende Leitfragen, die bei der Vorbereitung hilfreich sind:
 
 * *Kennen Sie Ihren Cloud-Dienst?* Welcher Anbieter? Welche Funktionen nutzen Sie bereits?
 
