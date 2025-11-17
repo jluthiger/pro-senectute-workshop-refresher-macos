@@ -5,10 +5,15 @@
 == Ziele
 * iCloud Drive verstehen
 * Dateien synchronisieren
-* Dateien freigeben und gemeinsam bearbeiten
 
 == Aufgaben
+* iCloud Drive erkunden
 . Beschreiben Sie die Struktur von iCloud Drive.
+. Welche Ordner und Dateien sind vorhanden?
+. Loggen Sie sich in link:https://www.icloud.com/[iCloud.com] ein und vergleichen Sie die Ansicht mit dem Finder.
+* Zusammenarbeit mit iCloud Drive
+. Erstellen Sie einen freigegebenen Ordner in link:https://www.icloud.com/iclouddrive/[iCloud Drive].
+* Synchronisation testen
 . Synchronisieren Sie ihre Ordner-Struktur für die iCloud.
 . Teilen Sie eine Datei über iCloud und beobachten Sie die Synchronisation.
 

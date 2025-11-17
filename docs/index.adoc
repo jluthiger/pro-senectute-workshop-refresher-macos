@@ -20,9 +20,8 @@ xref:05_icloud_einfuehrung.adoc[Arbeitsblatt 5 – Einführung in die iCloud]
 xref:06_rueckblick_tag1.adoc[Arbeitsblatt 6 – Rückblick & Fragen (Tag 2 – Einstieg)] +
 xref:07_icloud_drive_zusammenarbeit.adoc[Arbeitsblatt 7 – iCloud Drive & Zusammenarbeit] +
 xref:08_icloud_fotos_dienste.adoc[Arbeitsblatt 8 – iCloud Fotos & andere iCloud-Dienste] +
-xref:09_icloud_apps.adoc[Arbeitsblatt 9 – iCloud Apps] +
-xref:10_bonus_tipps.adoc[Arbeitsblatt 10 – Tipps & Tricks] +
-xref:11_abschluss_feedback.adoc[Arbeitsblatt 11 – Abschluss & Feedback]
+xref:09_bonus_tipps.adoc[Arbeitsblatt 10 – Tipps & Tricks] +
+xref:10_abschluss_feedback.adoc[Arbeitsblatt 11 – Abschluss & Feedback]
 
 == Kursunterlagen
 

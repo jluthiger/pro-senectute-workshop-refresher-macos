@@ -8,9 +8,13 @@
 * Feedback geben
 
 == Aufgaben
-. Notieren Sie drei wichtige Erkenntnisse vom ersten Kurstag.
-. Schreiben Sie Fragen auf, die Sie noch haben.
-. Geben Sie Feedback zur bisherigen Kursgestaltung.
+* Reflexion über den ersten Kurstag
+    . Nennen Sie drei wichtige Erkenntnisse vom ersten Kurstag.
+    . Nennen Sie Fragen, die Sie noch haben.
+    . Geben Sie Feedback zu den bisher behandelten Themen und zur bisherigen Kursgestaltung.
+* Review iCloud
+    . Welche Aspekte der iCloud wurden bisher behandelt?
+    . Welche Funktionen der iCloud möchten Sie noch besser verstehen?
 
 == Reflexion
 * Was möchten Sie im Alltag anwenden?
