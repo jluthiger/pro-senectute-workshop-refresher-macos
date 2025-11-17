@@ -1,4 +1,4 @@
-= MacOS-Refresher
+= macOS-Refresher
 :author_1: Pro Senectute Luzern
 :author_2: Jürg Luthiger
 :revnumber: 1.0
