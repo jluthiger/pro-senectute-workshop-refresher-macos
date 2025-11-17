@@ -13,7 +13,7 @@
 == Tipps & Tricks
 
 === AI nutzen
-Nutzen Sie link:https://chatgpt.com/?openaicom_referred=true[ChatGPT] oder andere KI-Tools aus, um Ihre Produktivität zu steigern. Probieren Sie z.B. folgenden Prompt aus:
+Nutzen Sie link:https://chatgpt.com/?openaicom_referred=true[ChatGPT,window=_blank] oder andere KI-Tools aus, um Ihre Produktivität zu steigern. Probieren Sie z.B. folgenden Prompt aus:
 
 [source,console]
 ----
@@ -22,9 +22,9 @@ Welches sind die wichtigsten Tastenkürzel für ein effizientes Arbeiten mit mac
 
 === Nützliche Youtube-Videos
 - Der *Schreibtisch/Desktop*: YouTube-Video link:https://www.youtube.com/watch?v=plyPws6H2vI[
-Hör auf, Fenster zu minimieren und mach DAS]
-- Das *Kontrollzentrum*: YouTube-Video link:https://www.youtube.com/watch?v=FnDEdBmC5Lw[Du hast GENIALSTE Funktion in MacOS Tahoe übersehen!]
-- Die *Option-Taste*: YouTube-Video link:https://www.youtube.com/watch?v=mcrwftiISvg[MacOS ist GENIAL, wenn du diese Taste kennst!]
+Hör auf, Fenster zu minimieren und mach DAS,window=_blank]
+- Das *Kontrollzentrum*: YouTube-Video link:https://www.youtube.com/watch?v=FnDEdBmC5Lw[Du hast GENIALSTE Funktion in MacOS Tahoe übersehen!,window=_blank]
+- Die *Option-Taste*: YouTube-Video link:https://www.youtube.com/watch?v=mcrwftiISvg[MacOS ist GENIAL, wenn du diese Taste kennst!,window=_blank]
 
 
 
