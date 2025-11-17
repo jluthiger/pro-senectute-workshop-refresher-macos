@@ -11,10 +11,20 @@
 . Passen Sie das Dock und die Systemeinstellungen an.
 
 == Tipps & Tricks
-* Der *Schreibtisch/Desktop*: YouTube-Video link:https://www.youtube.com/watch?v=plyPws6H2vI[
+
+=== AI nutzen
+Nutzen Sie link:https://chatgpt.com/?openaicom_referred=true[ChatGPT] oder andere KI-Tools aus, um Ihre Produktivität zu steigern. Probieren Sie z.B. folgenden Prompt aus:
+
+[source,console]
+----
+Welches sind die wichtigsten Tastenkürzel für ein effizientes Arbeiten mit macOS?
+----
+
+=== Nützliche Youtube-Videos
+- Der *Schreibtisch/Desktop*: YouTube-Video link:https://www.youtube.com/watch?v=plyPws6H2vI[
 Hör auf, Fenster zu minimieren und mach DAS]
-* Das *Kontrollzentrum*: YouTube-Video link:https://www.youtube.com/watch?v=FnDEdBmC5Lw[Du hast GENIALSTE Funktion in MacOS Tahoe übersehen!]
-* Die *Option-Taste*: YouTube-Video link:https://www.youtube.com/watch?v=mcrwftiISvg[MacOS ist GENIAL, wenn du diese Taste kennst!]
+- Das *Kontrollzentrum*: YouTube-Video link:https://www.youtube.com/watch?v=FnDEdBmC5Lw[Du hast GENIALSTE Funktion in MacOS Tahoe übersehen!]
+- Die *Option-Taste*: YouTube-Video link:https://www.youtube.com/watch?v=mcrwftiISvg[MacOS ist GENIAL, wenn du diese Taste kennst!]
 
 
 
