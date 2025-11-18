@@ -15,6 +15,15 @@ Damit Sie erfolgreich am Kurs teilnehmen können, benötigen Sie:
 Für diesen Kurs sind normalerweise *keine zusätzlichen Installationen* erforderlich.
 Es werden ausschliesslich *system-eigene Programme* verwendet, die auf jedem modernen Computer bereits vorinstalliert sind.
 
+== Apple Account
+
+Ein Apple Account ist *nicht zwingend erforderlich*, aber hilfreich, um bestimmte Funktionen und Dienste von macOS nutzen zu können. 
+
+*Wollen Sie aber iCloud-Dienste nutzen, um z.B. Dateien oder Fotos zentral zu speichern und mit anderen Geräten zu synchronisieren, benötigen Sie zwingend einen Apple Account.* Falls Sie noch keinen Apple Account besitzen, können Sie diesen kostenlos erstellen unter:
+link:https://appleid.apple.com/account#!&page=create[https://appleid.apple.com]
+
+*Hinweis:* Im Kurs werden wir iCloud thematisieren, aber die Nutzung ist schlussendlich freiwillig.
+
 == Empfohlene Einstellungen
 
 *Aktualisiertes Betriebssystem:*  
