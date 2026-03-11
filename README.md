@@ -1,6 +1,6 @@
 # macOS-Refresher
 
-Willkommen zum Workshop rund das macOS-Betriebssystem.
+Willkommen zum Workshop rund um das macOS-Betriebssystem.
 
 ## Über den Workshop
 
